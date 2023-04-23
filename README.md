@@ -1,2 +1,2 @@
 # WordPress
-A compilation where I gather all the extra functions that I add to my projects developed in WordPress.
+Um compliado onde reúno todas as funções extras que adiciono aos meus projetos desenvolvidos em WordPress.
